@@ -3,7 +3,7 @@
   dateFrom: 2017/9/17
   dateUntil: 2017/9/19
   venue: Sitges, Spain
-  map: MT
+  map: https://goo.gl/maps/yuRfr9Pv3Cy
   dueAbstract: 2017/06/09
   earlyRegister: 
   presenter: 이병민
@@ -14,9 +14,9 @@
   dateFrom: 2017/9/27
   dateUntil: 2017/9/30
   venue: Salzburg, Austria
-  map: MT
+  map: https://goo.gl/maps/8zzFy5nsVmk
   dueAbstract: 2017/05/31
-  earlyRegister: 
+  earlyRegister: 2017/07/10
   presenter: 정지훈
   title: Keap1 knockdown in melanocytes induces cell proliferation and survival via HO-1-associated β-catenin signaling
   
