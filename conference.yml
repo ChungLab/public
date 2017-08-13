@@ -46,7 +46,7 @@
   dateUntil: 2015/3/14
   venue: Boston, USA
   map: 
-  dueAbstract: 2014.10.07
+  dueAbstract: 2014/10/07
   presenter: 이병민
 
 - meeting: CSHL Single Cell Analysis Workshop
@@ -55,7 +55,28 @@
   dateUntil: 2015/6/16
   venue: Cold Spring Harbor, NY, USA 
   map: 
-  dueAbstract: 2015.4.15
+  dueAbstract: 2015/4/15
   presenter: 이병민
   
-    
+- meeting: Federation of European Neurosciences Societies
+  link: http://fens2014.neurosciences.asso.fr/
+  dateFrom: 2014/7/05
+  dateUntil: 2014/7/09
+  venue: Milan, Italy 
+  map: 
+  dueAbstract: 2014/02/10
+  presenter: 정지훈
+  title: mGluR-I dependent switching of firing mode of mesencephalic trigeminal sensory neurons 
+  
+- meeting: Society for Neuroscience 2014
+  link: http://www.sfn.org/annual-meeting/neuroscience-2014
+  dateFrom: 2014/11/15
+  dateUntil: 2014/11/19
+  venue: Washington DC, USA
+  map: 
+  dueAbstract: 2014/05/09
+  presenter: 정지훈
+  title: Enhancement of INaP-mediated resonance by mGluR-I activation induces burst firing in mesencephalic trigeminal sensory neurons  
+  
+  
+  
