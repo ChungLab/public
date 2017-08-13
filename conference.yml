@@ -1,7 +1,7 @@
 - meeting: Cell Symposia:Neuro-Immune Axis
   link: http://cell-symposia.com/neuroimmunology-2017
-  dateFrom: 2017/9/17
-  dateUntil: 2017/9/19
+  dateFrom: 2017/09/17
+  dateUntil: 2017/09/19
   venue: Sitges, Spain
   map: https://goo.gl/maps/yuRfr9Pv3Cy
   dueAbstract: 2017/06/09
@@ -11,8 +11,8 @@
 
 - meeting: European Society for Dermatological Research
   link: http://www.esdr2017.org/
-  dateFrom: 2017/9/27
-  dateUntil: 2017/9/30
+  dateFrom: 2017/09/27
+  dateUntil: 2017/09/30
   venue: Salzburg, Austria
   map: https://goo.gl/maps/8zzFy5nsVmk
   dueAbstract: 2017/05/31
@@ -32,8 +32,8 @@
   
 - meeting: 94th General Session of International Association for Dental Research
   link: http://iadr.com/i4a/pages/index.cfm?pageid=4537#.VcoM1RN_Oko
-  dateFrom: 2016/6/22
-  dateUntil: 2016/6/25
+  dateFrom: 2016/06/22
+  dateUntil: 2016/06/25
   venue: COEX, Seoul, South Korea
   map: 
   dueAbstract: 2016/01/21
@@ -42,8 +42,8 @@
   
 - meeting: 93th General Session of International Association for Dental Research
   link: http://iadr.com/i4a/pages/index.cfm?pageid=4537#.VcoM1RN_Oko
-  dateFrom: 2015/3/11
-  dateUntil: 2015/3/14
+  dateFrom: 2015/03/11
+  dateUntil: 2015/03/14
   venue: Boston, USA
   map: 
   dueAbstract: 2014/10/07
@@ -51,17 +51,17 @@
 
 - meeting: CSHL Single Cell Analysis Workshop
   link: http://meetings.cshl.edu/courses.aspx?course=c-single&year=15
-  dateFrom: 2015/6/03
-  dateUntil: 2015/6/16
+  dateFrom: 2015/06/03
+  dateUntil: 2015/06/16
   venue: Cold Spring Harbor, NY, USA 
   map: 
-  dueAbstract: 2015/4/15
+  dueAbstract: 2015/04/15
   presenter: 이병민
   
 - meeting: Federation of European Neurosciences Societies
   link: http://fens2014.neurosciences.asso.fr/
-  dateFrom: 2014/7/05
-  dateUntil: 2014/7/09
+  dateFrom: 2014/07/05
+  dateUntil: 2014/07/09
   venue: Milan, Italy 
   map: 
   dueAbstract: 2014/02/10
@@ -98,31 +98,31 @@
   
 - meeting: 91th General Session of International Association for Dental Research
   link: http://www.iadr.org/i4a/pages/index.cfm?pageid=3312#.V4jg-JPhBE4
-  dateFrom: 2013/3/20
-  dateUntil: 2013/3/23
+  dateFrom: 2013/03/20
+  dateUntil: 2013/03/23
   venue: Seattle, USA
   map: 
   presenter: 정지훈
   title: Effect of Prostaglandin E1 on facilitating HCN channels in trigeminal ganglia 
 
 - meeting: Frontiers in Dental Sciences, 2013 Seoul-Beijing Joint Symposium
-  dateFrom: 2013/4/11
-  dateUntil: 2013/4/12
+  dateFrom: 2013/04/11
+  dateUntil: 2013/04/12
   venue: Seoul, Korea
   presenter: 정지훈
   title: Activation of TRPA1 contributes to the pharmacological action of eugenol 
 
 - meeting: Federation of European Neurosciences Societies
   link: http://fens2012.neurosciences.asso.fr/
-  dateFrom: 2012/7/14
-  dateUntil: 2012/7/18
+  dateFrom: 2012/07/14
+  dateUntil: 2012/07/18
   venue: Barcelona, Spain  
   presenter: 정지훈
   title: Eugenol dependent activation of TRPA1 Channel 
 
 - meeting: 대한구강생물학회 춘계심포지움
   link: http://www.kaob.or.kr/
-  dateFrom: 2012/6/7
+  dateFrom: 2012/06/07
   venue: Seoul, Korea
   presenter: 정지훈
   title: Molecular mechanism underlying anesthetic action of eugenol 
