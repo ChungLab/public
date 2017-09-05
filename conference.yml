@@ -2,15 +2,24 @@
   link: https://www.sfn.org/annual-meeting/past-and-future-annual-meetings
   dateFrom: 2018/11/03
   dateUntil: 2018/11/07
-  venue: San Diego, CA, USA 
+  venue: San Diego, CA, USA
   map: https://goo.gl/maps/9HbNBP2Tbn62
-  
+
+- meeting: 9th World Institute of Pain
+  link: http://wip2018.kenes.com/
+  dateFrom: 2018/05/09
+  dateUntil: 2018/05/12
+  venue: Dublin, Ireland
+  map: https://goo.gl/maps/iwMQoMPwx3T2
+  dueAbstract: 2018/01/16
+  earlyRegister: 2018/03/14
+
 - meeting: 96th General Session of International Association for Dental Research
   link: http://www.iadr.org/IADR/Meetings/2018IAGS
   dateFrom: 2018/07/25
   dateUntil: 2018/07/28
   venue: London, UK
-  map: 
+  map:
   dueAbstract: 2018/02/02
   earlyRegister: 2018/05/01
 
@@ -18,7 +27,7 @@
   link: http://forum2018.fens.org/
   dateFrom: 2018/07/07
   dateUntil: 2018/07/11
-  venue: Berlin, Germany  
+  venue: Berlin, Germany
   map: https://goo.gl/maps/n6Ct2ABk8yB2
   dueAbstract: 2018/02/13
   earlyRegister: 2018/02/13
@@ -26,9 +35,9 @@
 - meeting: Organization for Computational Neurosciences
   link: http://www.cnsorg.org/cns-2018
   dateFrom: 2018/07
-  venue: Seattle, US 
-  map: 
-  title: 날짜 확인요 
+  venue: Seattle, US
+  map:
+  title: 날짜 확인요
 
 - meeting: ISSCR 2018 Annual Meeting
   link: http://www.isscr.org/home/annual-meeting/isscr-2018-melbourne
@@ -53,7 +62,7 @@
   venue: Sitges, Spain
   map: https://goo.gl/maps/yuRfr9Pv3Cy
   dueAbstract: 2017/06/09
-  earlyRegister: 
+  earlyRegister:
   presenter: 이병민
   title: Development of volatile albumin platform targeting M2 microglial cell type via click chemistry
 
@@ -67,33 +76,33 @@
   earlyRegister: 2017/07/10
   presenter: 정지훈
   title: Keap1 knockdown in melanocytes induces cell proliferation and survival via HO-1-associated β-catenin signaling
-  
+
 - meeting: Society for Neuroscience 2016
   link: https://www.sfn.org/annual-meeting/neuroscience-2016
   dateFrom: 2016/11/12
   dateUntil: 2016/11/16
-  venue: San Diego, CA, USA 
+  venue: San Diego, CA, USA
   map: https://goo.gl/maps/9HbNBP2Tbn62
   dueAbstract: 2016/05/05
   presenter: 정지훈,이병민
   title: Heterogeneous expression of purinergic receptor subtypes in rat odontoblasts
-  
+
 - meeting: 94th General Session of International Association for Dental Research
   link: http://iadr.com/i4a/pages/index.cfm?pageid=4537#.VcoM1RN_Oko
   dateFrom: 2016/06/22
   dateUntil: 2016/06/25
   venue: COEX, Seoul, South Korea
-  map: 
+  map:
   dueAbstract: 2016/01/21
   presenter: 이병민
-  title: Single cell analysis of rat odontoblasts for functional expression of P2X purinoceptors 
-  
+  title: Single cell analysis of rat odontoblasts for functional expression of P2X purinoceptors
+
 - meeting: 93th General Session of International Association for Dental Research
   link: http://iadr.com/i4a/pages/index.cfm?pageid=4537#.VcoM1RN_Oko
   dateFrom: 2015/03/11
   dateUntil: 2015/03/14
   venue: Boston, USA
-  map: 
+  map:
   dueAbstract: 2014/10/07
   presenter: 이병민
 
@@ -101,77 +110,76 @@
   link: http://meetings.cshl.edu/courses.aspx?course=c-single&year=15
   dateFrom: 2015/06/03
   dateUntil: 2015/06/16
-  venue: Cold Spring Harbor, NY, USA 
-  map: 
+  venue: Cold Spring Harbor, NY, USA
+  map:
   dueAbstract: 2015/04/15
   presenter: 이병민
-  
+
 - meeting: Federation of European Neurosciences Societies
   link: http://fens2014.neurosciences.asso.fr/
   dateFrom: 2014/07/05
   dateUntil: 2014/07/09
-  venue: Milan, Italy 
-  map: 
+  venue: Milan, Italy
+  map:
   dueAbstract: 2014/02/10
   presenter: 정지훈
-  title: mGluR-I dependent switching of firing mode of mesencephalic trigeminal sensory neurons 
-  
+  title: mGluR-I dependent switching of firing mode of mesencephalic trigeminal sensory neurons
+
 - meeting: Society for Neuroscience 2014
   link: http://www.sfn.org/annual-meeting/neuroscience-2014
   dateFrom: 2014/11/15
   dateUntil: 2014/11/19
   venue: Washington DC, USA
-  map: 
+  map:
   dueAbstract: 2014/05/09
   presenter: 정지훈
-  title: Enhancement of INaP-mediated resonance by mGluR-I activation induces burst firing in mesencephalic trigeminal sensory neurons  
-  
+  title: Enhancement of INaP-mediated resonance by mGluR-I activation induces burst firing in mesencephalic trigeminal sensory neurons
+
 - meeting: Society for Neuroscience 2013
   link: http://www.sfn.org/annual-meeting/neuroscience-2013
   dateFrom: 2013/11/09
   dateUntil: 2013/11/13
-  venue: San Diego, CA, USA 
+  venue: San Diego, CA, USA
   map: https://goo.gl/maps/9HbNBP2Tbn62
   dueAbstract: 2013/05/09
   presenter: 정지훈
-  title: Pharmacological action of eugenol involves rapid desensitization of TRPA1 
-  
+  title: Pharmacological action of eugenol involves rapid desensitization of TRPA1
+
 - meeting: Society for Neuroscience 2012
   link: http://www.sfn.org/Annual-Meeting/Past-and-Future-Annual-Meetings/2012
   dateFrom: 2012/10/13
   dateUntil: 2012/10/17
-  venue: New Orleans, USA 
+  venue: New Orleans, USA
   presenter: 정지훈
-  title: Eugenol as a ligand for TRPA1 channel 
-  
+  title: Eugenol as a ligand for TRPA1 channel
+
 - meeting: 91th General Session of International Association for Dental Research
   link: http://www.iadr.org/i4a/pages/index.cfm?pageid=3312#.V4jg-JPhBE4
   dateFrom: 2013/03/20
   dateUntil: 2013/03/23
   venue: Seattle, USA
-  map: 
+  map:
   presenter: 정지훈
-  title: Effect of Prostaglandin E1 on facilitating HCN channels in trigeminal ganglia 
+  title: Effect of Prostaglandin E1 on facilitating HCN channels in trigeminal ganglia
 
 - meeting: Frontiers in Dental Sciences, 2013 Seoul-Beijing Joint Symposium
   dateFrom: 2013/04/11
   dateUntil: 2013/04/12
   venue: Seoul, Korea
   presenter: 정지훈
-  title: Activation of TRPA1 contributes to the pharmacological action of eugenol 
+  title: Activation of TRPA1 contributes to the pharmacological action of eugenol
 
 - meeting: Federation of European Neurosciences Societies
   link: http://fens2012.neurosciences.asso.fr/
   dateFrom: 2012/07/14
   dateUntil: 2012/07/18
-  venue: Barcelona, Spain  
+  venue: Barcelona, Spain
   presenter: 정지훈
-  title: Eugenol dependent activation of TRPA1 Channel 
+  title: Eugenol dependent activation of TRPA1 Channel
 
 - meeting: 대한구강생물학회 춘계심포지움
   link: http://www.kaob.or.kr/
   dateFrom: 2012/06/07
   venue: Seoul, Korea
   presenter: 정지훈
-  title: Molecular mechanism underlying anesthetic action of eugenol 
-   
+  title: Molecular mechanism underlying anesthetic action of eugenol
