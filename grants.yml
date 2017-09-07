@@ -32,6 +32,16 @@ NRF:
   form: https://www.nrf.re.kr/biz/info/notice/view?nts_no=88467&biz_no=202
 
 ETC:
+- title: 삼성미래기술육성재단 기초과학
+  amount: 제한없음
+  duration: ~ 5년
+  due: 2017.12.15
+  note: 국내 소재 기관 소속의 내국인
+  link: https://www.samsungstf.or.kr/guid/matr/openPage.do?pageId=030201
+  form: https://www.samsungstf.or.kr/guid/matr/openPage.do?pageId=030202
+  foundation: 삼성미래기술육성재단
+  foundLink: http://www.samsungstf.or.kr/
+
 - title: 국방핵심기술소요공모 순수기초연구
   amount: 0.5억
   duration: 3년
